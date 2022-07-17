@@ -1,0 +1,49 @@
+
+Author:  R. Siderits 
+Date: July 17, 2022
+Version: 1.0
+
+# Notes: -------------------------------------------------------
+    
+    # Human diploid cell in G1 has about 6 picograms of DNA
+    
+    # Nuclear DNA Content Varies with Cell Size across Human Cell Types
+          
+    # Non-tumor cellularity is epithelial, mesenchymal, immune, endothelial, fribrblast)
+    
+    # TIS = Tumor Induced Stroma (Tumor microenvironment)
+    
+    # TCF = Tumor Cell Fields
+
+    # IBTC = In Between Tumor Cells
+
+    # PNT = Parenchyma Non-Tumor
+
+    # TAS = Tumor Associated Stroma (reparative)
+    
+    
+ # Assumptions: ------------------------------------------------------------ @
+     
+    # The tumor is roughly sherical.
+    # Sections at equitorial plane of section (standard grossing practice) 
+    # Picograms DNA are from Enhanced for tumor samples (stroma rmoved)
+    # Count necrosis as stromal for estimates of non-tumor
+    # Average cell has about 6 pg DNA
+    # Non-tumor cellularity is epithelial, mesenchymal, immune, endothelial, fribrblast)
+    # "Enhanced for tumor" follows microdissection, non-tumor stroma is excised from block
+    # Extraction efficiency and proportion of Tumor Induced Stroma (TIS) vary.
+    # Necrosis in Tumor Cell Field (TCF), should be counted as non-tumor.
+    
+# Instructions: ------------------------------------------------------------ @
+        
+    #     1) Review tissue in H&E or Hematoxolyn stained sections.
+    #     2) Estimate:
+    #         - Average diameter of the lesion or TCF if using a core
+    #         - Average size of the tumor cells in um, measure up o 20 cells.
+    #         - Percent TIS
+    #         - Cellularity of TIS, include areas of necrosis
+    #     3) If you are using a core, then use the core diameter as the leasion size
+    #     4) Enter variables into the respective fields then click "calculate"
+
+    # The final field will provide an estmated number of 10um thick secton to assure 100ng of Tumor DNA 
+    
