@@ -8,6 +8,8 @@ DNA2.png is the image for the application.
 
 PreDoc is the installaiton and basic instructions for use.
 
-TCC.EXE is the distribution installer.
+TCC.exe is the distribution installer.
+
+TCC
 
 Zip file is the executable file and an image.
