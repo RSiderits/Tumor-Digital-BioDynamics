@@ -13,4 +13,5 @@ TCC.exe is the distribution installer.
 
 TCC_EXE is the zipped executable
 
-TCC_GUI.py is the Python script.
+TCC_GUI_WD_XL.py is the Python script, can save to Word 
+report or can save to an excel file.
